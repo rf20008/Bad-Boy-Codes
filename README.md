@@ -1,5 +1,5 @@
 ### Hi there, I'm Bad Boy! 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Bad-Boy-Codes" alt="yus" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Bad-Boy-Codes" /> <img src="https://img.shields.io/discord/459910889924067358?label=Join%20Community&logo=discord&style=flat-square"> </p>
 
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/445073800850046977.png" alt="Discord" /> </p>
  
