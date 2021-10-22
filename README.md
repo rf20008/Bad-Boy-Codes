@@ -1,18 +1,15 @@
 ### Hi there, I'm Bad Boy! 👋
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Bad-Boy-Codes" alt="yus" /> </p>
-<p align='center'> <a href="https://discord.gg/5PvBYxPgQS">
-  <img align="center" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a> </p>
 
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/445073800850046977.png" alt="Discord" /> </p>
  
 <br />
 
 ### Hey i'm Bad Boy Gald to see you here! &nbsp;
-<p>I'm an Indian Student Develper, I've made [ <a href="https://top.gg/bot/858565390615707668"target="_blank"><img alt="Spidey" title="Spidey" height="15" width="15" src="https://www.nicepng.com/png/full/765-7655184_555-x-555-0-spiderman-mask.png"> Spidey<a/> ]<p/>
+<p>I'm an Indian Student Develper, I've made [ <a href="https://top.gg/bot/858565390615707668"target="_blank"><img alt="Spidey" title="Spidey" width="16px" src="https://www.nicepng.com/png/full/765-7655184_555-x-555-0-spiderman-mask.png"> Spidey<a/> ]<p/>
 
 <p align="center">
-<p> Meet me at my [<a href="https://dsc.gg/badboy"target="_blank"><img alt="Discord" title="Discord" height="12" width="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"> Discord<a/> ] <p/>
+<p> Meet me at my [ <a href="https://dsc.gg/badboy"target="_blank"><img alt="Discord" title="Discord" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"> Discord<a/> ] <p/>
 
 <h3> Tools/Apps with which i use most</>
 
