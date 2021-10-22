@@ -9,9 +9,10 @@
 <br />
 
 ### Hey i'm Bad Boy Gald to see you here! &nbsp;
+<p>I'm an Indian Student Develper, I've made [ <a href="https://top.gg/bot/858565390615707668"target="_blank"><img alt="Spidey" title="Spidey" height="15" width="15" src="https://www.nicepng.com/png/full/765-7655184_555-x-555-0-spiderman-mask.png"> Spidey<a/> ]<p/>
 
 <p align="center">
-<h4> Meet me at my [<a href="https://dsc.gg/badboy"target="_blank"><img alt="Discord" title="Discord" height="12" width="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"> Discord<a/> ]</>
+<p> Meet me at my [<a href="https://dsc.gg/badboy"target="_blank"><img alt="Discord" title="Discord" height="12" width="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"> Discord<a/> ] <p/>
 
 <h3> Tools/Apps with which i use most</>
 
