@@ -32,4 +32,5 @@
                 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bad-Boy-Codes&show_icons=true&layout=compact&hide_border=true&theme=dark" />
                 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bad-Boy-Codes&show_icons=true&theme=dark&line_height=21" alt="legend-js' github stats" />
               </p>
-            </details> Have a great day/night.
+            </details>
+<img src="https://i.imgur.com/5ouXHpX.jpg"/> Have a great day/night.
