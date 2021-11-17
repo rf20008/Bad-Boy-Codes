@@ -13,7 +13,7 @@
 <img src="https://discord.c99.nl/widget/theme-3/445073800850046977.png" />
 <a />
 </p>
-<h4> Hey I'm Bad Boy, Gald to see you here! <br>I'm A Student Develper, From India. &nbsp; <h4/>
+<h4> Hey I'm Bad Boy, Gald to see you here! <br>I'm a student develper, From India. &nbsp; <h4/>
 <details>
 <h4>About Me<h4>
 
