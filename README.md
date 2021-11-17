@@ -8,8 +8,6 @@
    <a />
 </p>
 
-----
-
 <p align="center">
 <a href="https://discord.com/users/445073800850046977">
 <img src="https://discord.c99.nl/widget/theme-3/445073800850046977.png" />
