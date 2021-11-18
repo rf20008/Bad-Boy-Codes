@@ -16,7 +16,7 @@
 </p>
 <h4> Hey I'm Bad Boy, Gald to see you here! <br>I'm a student develper, From India. &nbsp; <h4/>
 <details>
-<h4>About Me<h4>
+<summary>About Me</summary>
 
 - Currently working on discord bots and rest api
 - Weeb (Currently watching Tokyo Ghoul:RE)
