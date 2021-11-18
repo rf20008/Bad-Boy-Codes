@@ -4,10 +4,11 @@
    <img src="https://komarev.com/ghpvc/?username=Bad-Boy-Codes&style=flat-square&color=de1032" />
    <a />
    <a href="https://dsc.gg/badboy">
-   <img src="https://img.shields.io/discord/459910889924067358?label=Join%20Community&logo=discord&logoColor=f75454&style=flat-square&color=de1032" />
+   <img src="https://img.shields.io/discord/459910889924067358?label=Discord+Community&logo=discord&logoColor=fafafa&style=flat-square&color=de1032" />
+   <a /><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1">
+   <img src="https://img.shields.io/youtube/channel/subscribers/UC9j9vzkxZvUHWOlDBx-fajw?label=You+Tube&logo=youtube&logoColor=fafafa&style=flat-square&color=de1032" />
    <a />
 </p>
-
 <p align="center">
 <a href="https://discord.com/users/445073800850046977">
 <img src="https://discord.c99.nl/widget/theme-3/445073800850046977.png" />
@@ -23,18 +24,18 @@
 </details>
 
 ----
-
-<p>My Projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
-<img title="Suzumi" width="25px" src="https://ami.animecharactersdatabase.com/uploads/chars/68195-134968560.png"><img width="70px"src="https://img.shields.io/badge/-Suzumi-de1032?style=flat&logo=hotjar&logoColor=white"/>  <a /> 
+<p>My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
+<img title="Suzumi" width="24px" src="https://ami.animecharactersdatabase.com/uploads/chars/68195-134968560.png"><img width="70px"src="https://img.shields.io/badge/-Suzumi-de1032?style=flat&logo=codeIgniter&logoColor=white"/>  <a /> <br>
 <p />
 <p align="center">
-<p> Meet me at my: <a href="https://dsc.gg/badboy"><img title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://instagram.com/_itz.bad.boy_"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<p> Social and Support: <br><br><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1"><img src="https://img.shields.io/badge/-Youtube-d60412?style=for-the-badge&logo=youtubegaming&logoColor=white"/></a>
+<a href="https://instagram.com/_itz.bad.boy_"><img src="https://img.shields.io/badge/-Instagram-d9025f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto: badboyplays9999@gmail.com"><img src="https://img.shields.io/badge/-Email-a317c2?style=for-the-badge&logo=Minutemailer&logoColor=white"/></a>
+<a href="https://dsc.gg/badboy"><img title="Discord" src="https://img.shields.io/badge/-Discord-5502c2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <p />
+   <a href="https://www.buymeacoffee.com/bad.boy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 36px !important;height: 36px !important;" ></a> <a href='https://ko-fi.com/semant' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy me a coffee at ko-fi.com' /></a>
 
 ----
-
 <h4>
 Tools/Apps with which i use most </>
 <p align="center">
@@ -47,7 +48,6 @@ Tools/Apps with which i use most </>
 </p>
 
 ----
-
 <h4>
 GitHub Stats
 <p align="center">
