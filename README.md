@@ -14,7 +14,7 @@
 <img title="Bad Boy Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png" />
 <a />
 </p>
-<h4> Hey I'm Bad Boy, Gald to see you here! <br>I'm a student develper, From India. &nbsp; <h4/>
+<h4> Hey I'm Bad Boy, Glad to see you here! <br>I'm a student develper from India. &nbsp; <h4/>
 <details>
 <summary>About Me</summary>
 
